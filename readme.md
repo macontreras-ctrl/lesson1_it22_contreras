@@ -1,3 +1,1 @@
-# getting started with python from cancio
-
-tama
+sarangheyow
